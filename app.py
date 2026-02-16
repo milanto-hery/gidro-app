@@ -10,7 +10,7 @@ st.write("Mampiasà sary mba hamantarana ireo karazana gidro misy eto Madagasika
 
 # 1. Lisitra feno an'ireo species (Anarana mahazatra + Siantifika)
 LEMUR_SPECIES = [
-    "Ring-tailed Lemur (Lemur catta)", "Indri indri (Babakoto)", 
+    "Ring-tailed Lemur (Lemur catta)", "Indri lemur (Babakoto)", 
     "Aye-aye (Daubentonia madagascariensis)", "Black-and-white Ruffed Lemur (Varecia variegata)",
     "Red Ruffed Lemur (Varecia rubra)", "Coquerel's Sifaka (Propithecus coquereli)",
     "Diademed Sifaka (Propithecus diadema)", "Verreaux's Sifaka (Propithecus verreauxi)",
